@@ -1,0 +1,14 @@
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/bin/Debug/net5.0/SampleProblems.deps.json
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/bin/Debug/net5.0/SampleProblems.runtimeconfig.json
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/bin/Debug/net5.0/SampleProblems.runtimeconfig.dev.json
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/bin/Debug/net5.0/SampleProblems.dll
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/bin/Debug/net5.0/ref/SampleProblems.dll
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/bin/Debug/net5.0/SampleProblems.pdb
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/obj/Debug/net5.0/SampleProblems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/obj/Debug/net5.0/SampleProblems.AssemblyInfoInputs.cache
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/obj/Debug/net5.0/SampleProblems.AssemblyInfo.cs
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/obj/Debug/net5.0/SampleProblems.csproj.CoreCompileInputs.cache
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/obj/Debug/net5.0/SampleProblems.dll
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/obj/Debug/net5.0/ref/SampleProblems.dll
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/obj/Debug/net5.0/SampleProblems.pdb
+/Users/ronyjoy/projects/SampleProblems/SampleProblems/obj/Debug/net5.0/SampleProblems.genruntimeconfig.cache
